@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.python-version
+
+# Generated output images
+output/*
+!output/.gitkeep
